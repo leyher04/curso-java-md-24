@@ -1,6 +1,6 @@
 public class Ciclo {
     public static void main(String[] args) {
-        String nombre = "Dafne";
+        String nombre = ".- Leyda";
         // Ciclos
         // for
         // es una estructura de control que repite
